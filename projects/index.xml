@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects |</title><link>https://xintinghu.github.io/projects/</link><atom:link href="https://xintinghu.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><image><url>https://xintinghu.github.io/media/icon_hu_1c0e9cb08cfb822a.png</url><title>Projects</title><link>https://xintinghu.github.io/projects/</link></image><item><title>UAT</title><link>https://xintinghu.github.io/projects/uat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xintinghu.github.io/projects/uat/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;UAT examined how Advanced Air Mobility could be integrated into existing aviation systems through risk-aware low-altitude airspace design, third-party risk assessment, flight-plan management, and traffic-management concepts. The programme coordinated four work packages spanning risk, airspace, traffic management, and system integration. I led the Third-Party Risk Assessment work package and coordinated the seven-member team.&lt;/p&gt;
+&lt;figure class="project-detail-figure project-detail-figure--wide"&gt;&lt;img
+src="https://xintinghu.github.io/projects/uat/uat-overview.png"
+alt="Concept diagram of low-altitude AAM operations across an urban environment, including mission scheduling, vertiports, geofencing, ground and air risk, infrastructure separation, and noise and privacy constraints."
+width="2936"
+height="1675"
+loading="eager"
+decoding="async"
+class="project-detail-figure__image"
+&gt;&lt;figcaption class="project-detail-figure__caption"&gt;Operational and safety dimensions of low-altitude AAM integration.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id="operational-challenge"&gt;Operational Challenge&lt;/h2&gt;
+&lt;p&gt;Low-altitude AAM operations should protect people and property on the ground, maintain separation from other airspace users, and provide airspace that is sufficiently available, accessible, and connected for viable operations. Near aerodromes and in dense urban environments, new routes and procedures should also coexist with conventional traffic, controlled airspace, infrastructure, and existing air traffic management workflows.&lt;/p&gt;
+&lt;p&gt;The programme addressed four connected challenges:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Third-party ground and air risk in low-altitude environments;&lt;/li&gt;
+&lt;li&gt;Airspace availability, accessibility, and connectivity;&lt;/li&gt;
+&lt;li&gt;Aerodrome-adjacent integration with conventional air traffic and operational restrictions;&lt;/li&gt;
+&lt;li&gt;Strategic conflict management and integration with existing ATM procedures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="my-role"&gt;My Role&lt;/h2&gt;
+&lt;p&gt;I translated agency and stakeholder requirements into research questions, methods, and implementation priorities; coordinated work spanning data analytics, risk modelling, algorithm design, software development, and simulation; and connected research models with stakeholder-facing prototypes. I also supervised postgraduate and undergraduate research activities associated with the programme.&lt;/p&gt;
+&lt;h2 id="research-contributions"&gt;Research Contributions&lt;/h2&gt;
+&lt;h3 id="risk-aware-airspace-and-route-planning"&gt;Risk-Aware Airspace and Route Planning&lt;/h3&gt;
+&lt;p&gt;I developed spatial-temporal risk representations and applied them to risk-aware route planning and safety-constrained airspace design. The methods supported feasible-route analysis under risk limits and were implemented in the AAM Third-Party Risk Platform.&lt;/p&gt;
+&lt;figure class="project-detail-figure project-detail-figure--wide"&gt;&lt;img
+src="https://xintinghu.github.io/projects/uat/uat-risk-aware-airspace.png"
+alt="Three-panel diagram showing candidate movements in three-dimensional airspace, spatial risk-cost cells, and a risk-aware drone flight path."
+width="1782"
+height="588"
+loading="lazy"
+decoding="async"
+class="project-detail-figure__image"
+&gt;&lt;figcaption class="project-detail-figure__caption"&gt;Risk-aware 3D airspace representation and flight-path planning.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h3 id="airspace-availability-accessibility-and-aam-integration"&gt;Airspace Availability, Accessibility, and AAM Integration&lt;/h3&gt;
+&lt;p&gt;I developed methods to assess airspace availability and accessibility, including near aerodromes, and analysed constraints for door-to-door air transportation and coexistence with conventional aviation. The results informed airspace reconfiguration studies and the DDAT analysis framework.&lt;/p&gt;
+&lt;figure class="project-detail-figure project-detail-figure--wide"&gt;&lt;img
+src="https://xintinghu.github.io/projects/uat/uat-aerodrome-integration.png"
+alt="Concept diagram showing UAM preflight and avoidance paths around convective weather and a go-around aircraft, with potentially accessible UAM airspace and vertiports near an aerodrome."
+width="1498"
+height="661"
+loading="lazy"
+decoding="async"
+class="project-detail-figure__image"
+&gt;&lt;figcaption class="project-detail-figure__caption"&gt;Aerodrome-adjacent UAM integration under weather and conventional-aircraft constraints.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h3 id="flight-plan-and-traffic-management"&gt;Flight-Plan and Traffic Management&lt;/h3&gt;
+&lt;p&gt;I contributed methods for flight-plan management, strategic conflict management, and AAM–ATM integration, linking traffic interactions in constrained airspace to implementable planning logic and prototype functions.&lt;/p&gt;
+&lt;figure class="project-detail-figure project-detail-figure--compact"&gt;&lt;img
+src="https://xintinghu.github.io/projects/uat/uat-flight-plan-prototype.png"
+alt="Software interface showing mission settings, waypoint coordinates, a mapped flight route, and ground-risk assessment results."
+width="573"
+height="368"
+loading="lazy"
+decoding="async"
+class="project-detail-figure__image"
+&gt;&lt;figcaption class="project-detail-figure__caption"&gt;Prototype interface for low-altitude flight-plan preparation and route-level risk assessment.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id="research-translation-and-prototypes"&gt;Research Translation and Prototypes&lt;/h2&gt;
+&lt;p&gt;Research methods were translated into three integrated research outputs whose scope and evaluation were shaped by agency and stakeholder requirements.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AAM Third-Party Risk Platform&lt;/strong&gt; — A research platform connecting third-party ground and air risk models with airspace and route analysis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AAM flight-plan management prototype&lt;/strong&gt; — A prototype supporting flight-plan coordination and strategic conflict management for low-altitude AAM operations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Door-to-door air transportation analysis framework&lt;/strong&gt; — A framework for analysing airspace connectivity and operational requirements for door-to-door air transportation.&lt;/p&gt;
+&lt;p&gt;The video below presents AirMatrix, a concept of operations for low-altitude urban air mobility that I contributed to developing as part of the UAT project.&lt;/p&gt;
+&lt;div class="project-detail-video"&gt;
+&lt;div class="project-detail-video__frame"&gt;
+&lt;iframe
+src="https://www.youtube-nocookie.com/embed/6Ed7LjLGJ0E"
+title="AirMatrix concept of operations for low-altitude urban air mobility"
+loading="lazy"
+allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen
+referrerpolicy="strict-origin-when-cross-origin"
+&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;p class="project-detail-video__caption"&gt;AirMatrix: a concept of operations for low-altitude urban air mobility.&lt;/p&gt;&lt;p class="project-detail-video__fallback"&gt;
+&lt;a href="https://youtu.be/6Ed7LjLGJ0E" target="_blank" rel="noopener noreferrer"&gt;Watch on YouTube&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id="selected-publications-and-mentorship"&gt;Selected Publications and Mentorship&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;
+(2024)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+(2023)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+(2022)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The programme also supported &lt;strong&gt;my supervision of one postgraduate and two undergraduate students&lt;/strong&gt; working on environmental data analysis, urban airspace availability, and drone-corridor feasibility. Their work contributed to peer-reviewed conference papers and a technical report.&lt;/p&gt;
+&lt;h2 id="future-research-directions"&gt;Future Research Directions&lt;/h2&gt;
+&lt;p&gt;UAT provides a foundation for future research on scalable risk-aware AAM integration, dynamic airspace accessibility, door-to-door air transportation, and aerodrome integration. Key directions include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dynamic airspace management incorperating ground and air risks;&lt;/li&gt;
+&lt;li&gt;Human–AI decision support for low-altitude operational planning and control.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Long-term plan.&lt;/strong&gt; To make AAM safe to operate, manageable at scale, and capable of supporting a sustainable low-altitude mobility ecosystem.&lt;/p&gt;
+&lt;h2 id="related-pages"&gt;Related Pages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+— Research Theme 1&lt;/li&gt;
+&lt;li&gt;
+— multi-aircraft rerouting and safe learning under convective weather&lt;/li&gt;
+&lt;li&gt;
+— extended arrival management, Human–AI advisories, and cross-FIR coordination&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>AI4ATM</title><link>https://xintinghu.github.io/projects/ai4atm/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xintinghu.github.io/projects/ai4atm/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;AI4ATM examines how artificial intelligence can support safer air traffic operations under convective weather conditions. This work explores aircraft trajectory prediction, coordinated rerouting, and safety-constrained multi-agent decision-making.&lt;/p&gt;
+&lt;figure class="project-detail-figure project-detail-figure--wide-narrow"&gt;&lt;img
+src="https://xintinghu.github.io/projects/ai4atm/ai4atm-overview.png"
+alt="Diagram showing strategic, pre-tactical, and tactical conflict-management phases leading toward airborne collision prevention, with conflict detection and resolution at the air traffic flow management level and detect-and-avoid at the robotic level."
+width="633"
+height="359"
+loading="lazy"
+decoding="async"
+class="project-detail-figure__image"
+&gt;&lt;figcaption class="project-detail-figure__caption"&gt;Conflict-management layers from strategic flow management to tactical detect-and-avoid.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id="operational-challenge"&gt;Operational Challenge&lt;/h2&gt;
+&lt;p&gt;When convective weather makes several planned routes unavailable, independent diversions can create secondary conflicts, inefficient detours, and unstable traffic patterns. Coordinated planning must address three connected requirements:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Uncertainty&lt;/strong&gt; — Trajectory and ETA errors affect when conflicts emerge and how long a rerouting decision remains valid.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Coordination&lt;/strong&gt; — Avoiding a storm cell is not sufficient if the revised trajectory creates a new loss of separation with another aircraft.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Safety and generalization&lt;/strong&gt; — Learning-based methods must produce safe and practical decisions under weather patterns, traffic states, and route structures beyond the original training cases.&lt;/p&gt;
+&lt;h2 id="my-role"&gt;My Role&lt;/h2&gt;
+&lt;p&gt;I served as team coordinator and algorithm engineer within the Singapore–Italy collaboration. I coordinated project tasks, deliverables, milestones, reporting, and research alignment between the two national teams, while contributing to operational problem formulation and method development with primary responsibility for scenario design.&lt;/p&gt;
+&lt;p&gt;I led the policy-shared multi-aircraft rerouting study published at IEEE ICTAI 2025 and co-developed the &lt;em&gt;Advanced Engineering Informatics&lt;/em&gt; study on decentralized cooperative trajectory replanning. I also contributed to the technology-disclosure process and the safety-constrained multi-agent research, supporting the early completion of key project performance indicators.&lt;/p&gt;
+&lt;h2 id="research-contributions"&gt;Research Contributions&lt;/h2&gt;
+&lt;h3 id="policy-shared-multi-aircraft-rerouting-under-convective-weather"&gt;Policy-Shared Multi-Aircraft Rerouting Under Convective Weather&lt;/h3&gt;
+&lt;p&gt;I led the development and evaluation of a policy-shared deep reinforcement learning method for coordinated rerouting under convective-weather disruptions.&lt;/p&gt;
+&lt;figure class="project-detail-figure project-detail-figure--medium-narrow project-detail-figure--light-canvas"&gt;&lt;div class="project-detail-figure__canvas"&gt;
+&lt;img
+src="https://xintinghu.github.io/projects/ai4atm/ai4atm-policy-shared.png"
+alt="Architecture diagram showing multiple aircraft interacting with an airspace environment, storing individual experiences, and using shared actor and critic neural networks to generate coordinated actions."
+width="1466"
+height="1363"
+loading="lazy"
+decoding="async"
+class="project-detail-figure__image"
+&gt;
+&lt;/div&gt;&lt;figcaption class="project-detail-figure__caption"&gt;Policy-shared actor–critic architecture for coordinated multi-aircraft trajectory planning.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h3 id="safety-constrained-cooperative-trajectory-replanning"&gt;Safety-Constrained Cooperative Trajectory Replanning&lt;/h3&gt;
+&lt;p&gt;I co-developed a decentralized deep reinforcement learning framework in which aircraft make local trajectory decisions while accounting for surrounding traffic and evolving thunderstorm cells.&lt;/p&gt;
+&lt;p&gt;I also contributed to constrained multi-agent reinforcement learning with MAF-Net, which filters candidate actions against safety constraints before they are applied. Together, these methods extend cooperative replanning toward safer decentralized coordination under dynamic weather and interacting-aircraft risks.&lt;/p&gt;
+&lt;figure class="project-detail-figure project-detail-figure--wide-capped project-detail-figure--light-canvas"&gt;&lt;div class="project-detail-figure__canvas"&gt;
+&lt;img
+src="https://xintinghu.github.io/projects/ai4atm/ai4atm-cooperative-replanning.png"
+alt="Air-route scenario showing several aircraft rerouting around two evolving thunderstorm cells while avoiding collision risks with weather and other aircraft."
+width="670"
+height="451"
+loading="lazy"
+decoding="async"
+class="project-detail-figure__image"
+&gt;
+&lt;/div&gt;&lt;figcaption class="project-detail-figure__caption"&gt;Cooperative trajectory replanning under evolving thunderstorm cells and aircraft-conflict risk.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id="from-methods-to-operational-scenarios"&gt;From Methods to Operational Scenarios&lt;/h2&gt;
+&lt;p&gt;The methods were evaluated through simulation scenarios with realistic air-route structures, interacting aircraft, evolving thunderstorm cells, and ETA uncertainty.&lt;/p&gt;
+&lt;figure class="project-detail-dual-loop-media"&gt;
+&lt;div class="project-detail-dual-loop-media__grid"&gt;
+&lt;figure class="project-detail-dual-loop-media__item"&gt;
+&lt;div class="project-detail-dual-loop-media__frame"&gt;
+&lt;img
+src="https://xintinghu.github.io/projects/ai4atm/ai4atm-aam-tma-weather-disruption.gif"
+alt="Advanced Air Mobility aircraft managing safe trajectories around dynamic weather in a Terminal Manoeuvring Area."
+width="640"
+height="480"
+loading="lazy"
+decoding="async"
+class="project-detail-dual-loop-media__image"
+&gt;
+&lt;/div&gt;&lt;figcaption class="project-detail-dual-loop-media__item-caption"&gt;Advanced Air Mobility in the Terminal Manoeuvring Area&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="project-detail-dual-loop-media__item"&gt;
+&lt;div class="project-detail-dual-loop-media__frame"&gt;
+&lt;img
+src="https://xintinghu.github.io/projects/ai4atm/ai4atm-atm-enroute-weather-disruption.gif"
+alt="Air traffic aircraft managing safe en-route trajectories around dynamic weather."
+width="640"
+height="480"
+loading="lazy"
+decoding="async"
+class="project-detail-dual-loop-media__image"
+&gt;
+&lt;/div&gt;&lt;figcaption class="project-detail-dual-loop-media__item-caption"&gt;Air Traffic Management in the en-route phase&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/div&gt;&lt;figcaption class="project-detail-dual-loop-media__group-caption"&gt;Safe trajectory management for Advanced Air Mobility and Air Traffic Management under weather-induced airspace disruptions across terminal and en-route operations.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id="selected-publications-and-technology-disclosure"&gt;Selected Publications and Technology Disclosure&lt;/h2&gt;
+&lt;p&gt;Selected peer-reviewed publications and a technology disclosure from this research include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;
+(2025)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+(2025)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+(2026)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;An Independent Deep Deterministic Policy Gradient Method for Cooperative Multi-Aircraft Rerouting Under Dynamic Thunderstorm Conditions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Technology Disclosure, NTU Ref. TD 2025-144, 2025.&lt;/p&gt;
+&lt;p&gt;Inventors: Bizhao Pang, Sameer Alam, Xinting Hu, and Mingcheng Zhang.&lt;/p&gt;
+&lt;h2 id="future-research-directions"&gt;Future Research Directions&lt;/h2&gt;
+&lt;p&gt;Three directions extend this work:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Generalization&lt;/strong&gt; — reliable performance under unseen weather patterns, traffic states, and route structures;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Safety assurance and explainability&lt;/strong&gt; — integration of action filtering with verification, interpretable constraints, and recommendations that operational personnel can review;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Prediction-informed decision-making&lt;/strong&gt; — tighter coupling of trajectory prediction, uncertainty estimation, and human-supervised planning as prediction confidence changes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="related-pages"&gt;Related Pages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+— Research Theme 2&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+— risk-aware low-altitude air mobility and airspace integration&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+— extended arrival management, Human–AI advisories, and cross-FIR coordination&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>FlexMAN</title><link>https://xintinghu.github.io/projects/flexman/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xintinghu.github.io/projects/flexman/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;FlexMAN develops a Human–AI hybrid approach to extended arrival management. It coordinates arrivals earlier and farther upstream, before aircraft enter the destination Flight Information Region (FIR) or congested terminal airspace. The approach combines arrival pre-sequencing, cruise-phase speed advisories, and demand–capacity balancing to distribute delay during the en-route phase and reduce reliance on late tactical intervention near the destination.&lt;/p&gt;
+&lt;p&gt;The project focuses on fragmented multi-FIR environments such as Southeast Asia, where adjacent airspace may operate under different procedures, service-provider capabilities, and bilateral coordination arrangements without a single regional implementation authority.&lt;/p&gt;
+&lt;h2 id="operational-challenge"&gt;Operational Challenge&lt;/h2&gt;
+&lt;p&gt;Conventional arrival management often operates within a short tactical horizon, limiting opportunities to coordinate traffic before it approaches congested terminal airspace.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Short tactical horizon&lt;/strong&gt; — Late sequencing decisions can lead to arrival bunching and increase the need for tactical intervention close to the destination.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Late delay absorption&lt;/strong&gt; — Delay may be concentrated through holding, vectoring, or other actions near terminal airspace rather than distributed earlier through cruise-phase adjustments.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fragmented multi-FIR coordination&lt;/strong&gt; — Earlier arrival coordination must account for differences in procedures, provider capabilities, information availability, and cross-FIR cooperation arrangements.&lt;/p&gt;
+&lt;h2 id="my-role"&gt;My Role&lt;/h2&gt;
+&lt;p&gt;I serve as &lt;strong&gt;Algorithm Team Lead&lt;/strong&gt;, coordinating the work of five research staff and the delivery of the algorithm workstream.&lt;/p&gt;
+&lt;p&gt;I directly lead research on speed-advisory optimization and demand–capacity balancing. I also coordinate team contributions to data-driven scenario generation, human reaction-time modelling, cross-FIR cooperation modelling, benchmark development and comparison, and algorithm evaluation.&lt;/p&gt;
+&lt;p&gt;My role further includes coordinating the continuing &lt;strong&gt;integration of algorithm modules with the Human–Machine Interface&lt;/strong&gt;, the simulation environment, and the wider FlexMAN research prototype.&lt;/p&gt;
+&lt;h2 id="research-contributions"&gt;Research Contributions&lt;/h2&gt;
+&lt;h3 id="speed-advisory-optimization-and-delay-absorption"&gt;Speed-Advisory Optimization and Delay Absorption&lt;/h3&gt;
+&lt;p&gt;FlexMAN combines upstream speed adjustment with demand–capacity balancing to support earlier arrival pre-sequencing. The optimization framework identifies cruise-phase speed advisories that can distribute or absorb delay before aircraft reach congested terminal airspace.&lt;/p&gt;
+&lt;h3 id="controller-interaction-and-operational-feasibility"&gt;Controller Interaction and Operational Feasibility&lt;/h3&gt;
+&lt;p&gt;FlexMAN keeps operational personnel in the decision loop by presenting algorithm-generated speed advisories for controller review. Controllers can accept, reject, or revise a recommendation, after which the system can update its calculations using the accepted decision and current traffic conditions.&lt;/p&gt;
+&lt;!-- ## Integrated FlexMAN Research Prototype
+The team-developed FlexMAN research prototype integrates arrival pre-sequencing, speed-advisory optimization, demand–capacity balancing, Human–Machine Interface functions, and NARSIM-based simulation.
+The interface distinguishes between Advisory Speed and Accepted Speed to support controller review and subsequent recalculation. Prototype integration remains ongoing as algorithm, interface, scenario, and simulation components continue to be developed and tested.
+My role includes coordinating the integration of algorithm modules with the interface and simulation environment. --&gt;
+&lt;h2 id="from-algorithms-to-operational-evaluation"&gt;From Algorithms to Operational Evaluation&lt;/h2&gt;
+&lt;p&gt;Completed evaluation includes traffic-scenario algorithm assessment and analysis of initial operational-feasibility findings. The studies use representative traffic and airspace scenarios, including cross-FIR conditions relevant to fragmented regional environments.&lt;/p&gt;
+&lt;p&gt;The evaluations compare proposed coordination methods with current-operation benchmarks and examine the effects of speed-advisory decisions, changing traffic conditions, and controller responses. The findings remain limited to research and simulation settings.&lt;/p&gt;
+&lt;h2 id="stakeholder-engagement"&gt;Stakeholder Engagement&lt;/h2&gt;
+&lt;p&gt;FlexMAN is under development through research exchange and stakeholder engagement involving ICAI, MITRE Asia, and GE Aerospace.&lt;/p&gt;
+&lt;h2 id="future-research-directions"&gt;Future Research Directions&lt;/h2&gt;
+&lt;p&gt;Future work focuses on three connected directions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Scalable multi-FIR coordination&lt;/strong&gt; — Extended arrival-management methods need to remain effective across fragmented airspace with different procedures, provider capabilities, and coordination arrangements. Longer-term work may connect these methods with trajectory-based operations and network-centric air traffic management.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Adaptive demand–capacity balancing&lt;/strong&gt; — Future methods can incorporate greater uncertainty in traffic demand, arrival capacity, weather conditions, and regional operating constraints.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Explainable Human–AI advisories&lt;/strong&gt; — Transparent explanations, controller intervention strategies, and models of human response will be important for improving trust and supporting practical decision-making.&lt;/p&gt;
+&lt;h2 id="related-pages"&gt;Related Pages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+— cross-cutting research direction&lt;/li&gt;
+&lt;li&gt;
+— risk-aware low-altitude air mobility and airspace integration&lt;/li&gt;
+&lt;li&gt;
+— multi-aircraft rerouting and safe learning under convective weather&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

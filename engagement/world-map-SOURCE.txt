@@ -1,0 +1,13 @@
+World map SVG source
+====================
+
+Asset: static/engagement/world-map.svg
+
+Derived from the Simple World Map project:
+https://github.com/flekschas/simple-world-map
+
+Original low-resolution world map by Al MacDonald (Wikimedia Commons).
+Annotated with ISO 3166-1 alpha-2 codes by Fritz Lekschas.
+
+License: Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+Full license text: static/engagement/world-map-LICENSE.txt

@@ -1,0 +1,429 @@
+{
+  "citation_reach_country_count": 60,
+  "direct_connection_country_count": 9,
+  "countries": [
+    {
+      "code": "CN",
+      "name": "China",
+      "citing_count": 343,
+      "has_direct_connection": true,
+      "connection_types": [
+        "Cross-institutional and stakeholder exchange",
+        "International co-authorship"
+      ],
+      "related_institutions": [
+        "Civil Aviation University of China (CAUC)",
+        "Civil Aviation Management Institute of China (CAMIC)"
+      ]
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "citing_count": 56,
+      "has_direct_connection": false
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "citing_count": 38,
+      "has_direct_connection": true,
+      "connection_types": [
+        "Public research presentation",
+        "Cross-institutional and stakeholder exchange",
+        "International co-authorship"
+      ],
+      "related_institutions": [
+        "Nanyang Technological University (NTU)",
+        "Air Traffic Management Research Institute (ATMRI)",
+        "Civil Aviation Authority of Singapore (CAAS)",
+        "International Centre for Aviation Innovation (ICAI)",
+        "MITRE",
+        "GE",
+        "Singapore Management University (SMU)"
+      ]
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "citing_count": 21,
+      "has_direct_connection": false
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "citing_count": 18,
+      "has_direct_connection": false
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "citing_count": 17,
+      "has_direct_connection": false
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "citing_count": 16,
+      "has_direct_connection": true,
+      "connection_types": [
+        "Public research presentation"
+      ],
+      "connection_details": [
+        "IEEE ITSC, Edmonton, September 2024"
+      ]
+    },
+    {
+      "code": "KR",
+      "name": "South Korea",
+      "citing_count": 16,
+      "has_direct_connection": false
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "citing_count": 14,
+      "has_direct_connection": false
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "citing_count": 12,
+      "has_direct_connection": false
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "citing_count": 11,
+      "has_direct_connection": false
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "citing_count": 10,
+      "has_direct_connection": true,
+      "connection_types": [
+        "International co-authorship"
+      ]
+    },
+    {
+      "code": "IR",
+      "name": "Iran",
+      "citing_count": 9,
+      "has_direct_connection": false
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "citing_count": 8,
+      "has_direct_connection": true,
+      "connection_types": [
+        "Public research presentations"
+      ],
+      "connection_details": [
+        "IEEE ITSC, Bilbao, September 2023",
+        "Two presentations at IEEE/AIAA DASC, Barcelona, October 2023"
+      ]
+    },
+    {
+      "code": "CZ",
+      "name": "Czechia",
+      "citing_count": 7,
+      "has_direct_connection": false
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "citing_count": 7,
+      "has_direct_connection": false
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "citing_count": 6,
+      "has_direct_connection": false
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "citing_count": 5,
+      "has_direct_connection": false
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "citing_count": 5,
+      "has_direct_connection": false
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "citing_count": 4,
+      "has_direct_connection": false
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "citing_count": 4,
+      "has_direct_connection": false
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "citing_count": 4,
+      "has_direct_connection": false
+    },
+    {
+      "code": "MO",
+      "name": "Macao",
+      "citing_count": 4,
+      "has_direct_connection": false
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "citing_count": 4,
+      "has_direct_connection": false
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "citing_count": 4,
+      "has_direct_connection": false
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "citing_count": 4,
+      "has_direct_connection": false
+    },
+    {
+      "code": "TR",
+      "name": "Turkey",
+      "citing_count": 4,
+      "has_direct_connection": false
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "citing_count": 3,
+      "has_direct_connection": true,
+      "connection_types": [
+        "Academic exchange"
+      ],
+      "connection_details": [
+        "Academic discussion, research exchange, and campus visit with a researcher at ETH Zürich, October 2025"
+      ]
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "citing_count": 3,
+      "has_direct_connection": false
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "citing_count": 3,
+      "has_direct_connection": false
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "citing_count": 3,
+      "has_direct_connection": true,
+      "connection_types": [
+        "Public research presentation"
+      ],
+      "connection_details": [
+        "IEEE ICTAI, Athens, November 2025"
+      ]
+    },
+    {
+      "code": "LB",
+      "name": "Lebanon",
+      "citing_count": 3,
+      "has_direct_connection": false
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "citing_count": 3,
+      "has_direct_connection": false
+    },
+    {
+      "code": "TN",
+      "name": "Tunisia",
+      "citing_count": 3,
+      "has_direct_connection": false
+    },
+    {
+      "code": "VN",
+      "name": "Vietnam",
+      "citing_count": 3,
+      "has_direct_connection": true,
+      "connection_types": [
+        "International co-authorship"
+      ]
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "citing_count": 2,
+      "has_direct_connection": false
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus",
+      "citing_count": 2,
+      "has_direct_connection": false
+    },
+    {
+      "code": "DZ",
+      "name": "Algeria",
+      "citing_count": 2,
+      "has_direct_connection": false
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "citing_count": 2,
+      "has_direct_connection": false
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "citing_count": 2,
+      "has_direct_connection": false
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "citing_count": 2,
+      "has_direct_connection": false
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "citing_count": 2,
+      "has_direct_connection": false
+    },
+    {
+      "code": "QA",
+      "name": "Qatar",
+      "citing_count": 2,
+      "has_direct_connection": false
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "citing_count": 2,
+      "has_direct_connection": false
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "citing_count": 2,
+      "has_direct_connection": false
+    },
+    {
+      "code": "AF",
+      "name": "Afghanistan",
+      "citing_count": 1,
+      "has_direct_connection": false
+    },
+    {
+      "code": "BD",
+      "name": "Bangladesh",
+      "citing_count": 1,
+      "has_direct_connection": false
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "citing_count": 1,
+      "has_direct_connection": false
+    },
+    {
+      "code": "ET",
+      "name": "Ethiopia",
+      "citing_count": 1,
+      "has_direct_connection": false
+    },
+    {
+      "code": "HN",
+      "name": "Honduras",
+      "citing_count": 1,
+      "has_direct_connection": false
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "citing_count": 1,
+      "has_direct_connection": true,
+      "connection_types": [
+        "Cross-institutional project exchange"
+      ],
+      "connection_details": [
+        "Online project exchange involving AirNav Indonesia"
+      ]
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "citing_count": 1,
+      "has_direct_connection": false
+    },
+    {
+      "code": "IL",
+      "name": "Israel",
+      "citing_count": 1,
+      "has_direct_connection": false
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq",
+      "citing_count": 1,
+      "has_direct_connection": false
+    },
+    {
+      "code": "JO",
+      "name": "Jordan",
+      "citing_count": 1,
+      "has_direct_connection": false
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait",
+      "citing_count": 1,
+      "has_direct_connection": false
+    },
+    {
+      "code": "LK",
+      "name": "Sri Lanka",
+      "citing_count": 1,
+      "has_direct_connection": false
+    },
+    {
+      "code": "MT",
+      "name": "Malta",
+      "citing_count": 1,
+      "has_direct_connection": false
+    },
+    {
+      "code": "SD",
+      "name": "Sudan",
+      "citing_count": 1,
+      "has_direct_connection": false
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "citing_count": 1,
+      "has_direct_connection": false
+    }
+  ],
+  "overview": {
+    "default_text": "Highlighted countries show where research connections have taken place.",
+    "interaction_hint": "<strong>Click or tap</strong> a highlighted country to view related activities."
+  }
+}
